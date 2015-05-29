@@ -22,10 +22,12 @@ with node:
 
 ## Misc - Jumper Wire Conventions
 
-black - ground
-red - hot wire, 5 volts
-green/yellow - signals
-white - sub for red
+| Color        | Description       |
+| ------------ | ----------------- |
+| Black        | Grounding         |
+| Red          | Hot wire, 5 volts |
+| Green/Yellow | Signals           |
+| White        | Sub for red       |
 
 ## LICENSE
 
